@@ -1,4 +1,15 @@
 
+		
+		nav {
+	background: linear-gradient(yellow,#e0e0e0,#efefef,#000);
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	border: 1px solid;
+	border-radius: 5px;
+	margin-bottom: 20px;
+		}
+		
 		#cab {
 			background-image: url("../img/dados.jpg");
 			background-size: 100% 100%;
