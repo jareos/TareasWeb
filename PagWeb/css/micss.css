@@ -23,9 +23,18 @@
 			font-size: 100px;
 			display: block;
 		}
-		#tamblaimg{
-			padding: auto;
+		.tablaimg tr, .tablaimg td{
+				text-align: center;
+				
+	
+	
+				
+				border: 3px solid silver;
+				background-color: pink;
+
+
 		}
+		
 		.d{
 			list-style: none;
 			display: inline;
@@ -36,6 +45,7 @@
 			color:white;
 			font-size: 30px;
 			display: block;
+			text-align: center;
 		}
 		.k{
 			list-style: none;
