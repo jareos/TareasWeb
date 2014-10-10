@@ -1,0 +1,35 @@
+
+		#cab {
+			background-image: url("../img/dados.jpg");
+			background-size: 100% 100%;
+			
+			width: 1200px;
+			height: 200px;
+		}
+		#texth{
+			color:red;
+			font-size: 100px;
+			display: block;
+		}
+		#tamblaimg{
+			padding: auto;
+		}
+		.d{
+			list-style: none;
+			display: inline;
+			margin: 10px;
+			margin-right: 10px;		
+		}
+		.txt{
+			color:white;
+			font-size: 30px;
+			display: block;
+		}
+		.k{
+			list-style: none;
+			display: inline;
+			font-size: 20px;
+			margin: 30px;
+			margin-right: 20px;	
+		}
+	
