@@ -1,7 +1,7 @@
 
 		
 		nav {
-	background: linear-gradient(yellow,#e0e0e0,#efefef,#000);
+	background: linear-gradient(silver,#e0e0e0,#efefef,#000);
 	width: 80%;
 	margin-right: auto;
 	margin-left: auto;
@@ -13,7 +13,8 @@
 		#cab {
 			background-image: url("../img/dados.jpg");
 			background-size: 100% 100%;
-			
+				margin-right: auto;
+				margin-left: auto;
 			width: 1200px;
 			height: 200px;
 		}
