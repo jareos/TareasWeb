@@ -1,26 +1,14 @@
 
 		nav {
-			background: linear-gradient(silver,#e0e0e0,#efefef,#000);
-			width: 80%;
-			margin-right: auto;
-			margin-left: auto;
-			border: 1px solid;
-			border-radius: 5px;
-			margin-bottom: 20px;
+			background: linear-gradient(silver,#e0e0e0,#efefef,#000); width: 80%; margin-right: auto;
+			margin-left: auto; border: 1px solid; border-radius: 5px; margin-bottom: 20px;
 		}
 		
 		#cab {
-			background-image: url("../img/h2.jpg");
-			background-size: 100% 100%;
-				margin-right: auto;
-				margin-left: auto;
-			width: 1150px;
-			height: 300px;
+			background-image: url("../img/h2.jpg"); background-size: 100% 100%; margin-right: auto; margin-left: auto; width: 1150px; height: 300px;
 		}
 		#texth{
-			color:red;
-			font-size: 100px;
-			display: block;
+			color:red; font-size: 100px; display: block;
 		}
 		.tablaimg tr, .tablaimg td{
 				text-align: center;
@@ -29,41 +17,41 @@
 		}
 		
 		.d{
-			list-style: none;
-			display: inline;
-			margin: 10px;
-			margin-right: 10px;		
+			list-style: none; display: inline; margin: 10px; margin-right: 10px;		
 		}
 		.txt{
-			color:white;
-			font-size: 30px;
-			display: block;
-			text-align: center;
+			color:white; font-size: 30px; display: block; text-align: center;
 		}
 		.k{
-			list-style: none;
-			display: inline;
-			font-size: 20px;
-			margin: 30px;
-			margin-right: 20px;	
+			list-style: none; display: inline; font-size: 20px; margin: 30px; margin-right: 20px;	
 		}
 	 /*  body{ text-align: center; font-family: Tahoma, Arial, Geneva, sans-serif; color:#797979;}*/
-   #cont{ width: 693px; margin: 0 auto 0 auto; text-align: left;}
-   #enca{ height: 32px; margin-bottom: 40px; width: 693px;}
+   #cont{
+   		width: 693px; margin: 0 auto 0 auto; text-align: left;}
+   #enca{ 
+   		height: 32px; margin-bottom: 40px; width: 693px;}
    /*los textos del encabezado lo dejamos para mas adelante porque tenemos que hacer reemplazo de texto por imagen*/
  
-   #contenido{ width: 500px; float: left; margin-bottom: 70px;}
-   #contenido h2{ font-size: 18px; color: #464545; font-weight: normal }
-   #contenido h2 span{  color: #a7a7a7;   } /*esto nos sirve para cambiar el color a gris en los titulos cuando colocamos la etiqueta span!*/
-   #contenido p{font-size: 13px;}	   
+   #contenido{ 
+   		width: 500px; float: left; margin-bottom: 70px;}
+   #contenido h2{ 
+   		font-size: 18px; color: #464545; font-weight: normal }
+   #contenido h2 span{  
+   		color: #a7a7a7;   } /*esto nos sirve para cambiar el color a gris en los titulos cuando colocamos la etiqueta span!*/
+   #contenido p{
+   		font-size: 13px;}	   
  
-   #menu{ width: 180px; float: left; text-transform: uppercase}	
+   #menu{ 
+   		width: 180px; float: left; text-transform: uppercase}	
  
-   #fotos {width: 370px;}
-   #fotos div{ width: 100px; height: 69px; float: left; margin: 10px 9px 15px 9px; background: silver;  }
+   #fotos {
+   		width: 370px;}
+   #fotos div{ 
+   		width: 100px; height: 69px; float: left; margin: 10px 9px 15px 9px; background: silver;  }
    /*Coloco el background:silver; para que se vean los cambios despues  colocaremos las imagenes*/
  
-   #pie{ clear: both;  height: 296px;}
+   #pie{ 
+   		clear: both;  height: 296px;}
    #pie h2{ font-size: 18px; color: #464545; font-weight: normal }
    #pie h2 span{  color: #a7a7a7;   }
    #pie p{ text-align: center; font-size: 13px; padding-top: 10px; clear: both;}
