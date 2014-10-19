@@ -61,7 +61,7 @@
  
    #fotos {width: 370px;}
    #fotos div{ width: 100px; height: 69px; float: left; margin: 10px 9px 15px 9px; background: silver;  }
-   /*Coloco el background:silver; para que se vean los cambios despues colocaremos las imagenes*/
+   /*Coloco el background:silver; para que se vean los cambios despues  colocaremos las imagenes*/
  
    #pie{ clear: both;  height: 296px;}
    #pie h2{ font-size: 18px; color: #464545; font-weight: normal }
