@@ -1,13 +1,12 @@
 
-		
 		nav {
-	background: linear-gradient(silver,#e0e0e0,#efefef,#000);
-	width: 80%;
-	margin-right: auto;
-	margin-left: auto;
-	border: 1px solid;
-	border-radius: 5px;
-	margin-bottom: 20px;
+			background: linear-gradient(silver,#e0e0e0,#efefef,#000);
+			width: 80%;
+			margin-right: auto;
+			margin-left: auto;
+			border: 1px solid;
+			border-radius: 5px;
+			margin-bottom: 20px;
 		}
 		
 		#cab {
@@ -15,8 +14,8 @@
 			background-size: 100% 100%;
 				margin-right: auto;
 				margin-left: auto;
-			width: 1500px;
-			height: 500px;
+			width: 1150px;
+			height: 300px;
 		}
 		#texth{
 			color:red;
@@ -25,14 +24,8 @@
 		}
 		.tablaimg tr, .tablaimg td{
 				text-align: center;
-				
-	
-	
-				
 				border: 3px solid silver;
 				background-color: pink;
-
-
 		}
 		
 		.d{
