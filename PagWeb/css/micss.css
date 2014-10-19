@@ -79,5 +79,6 @@
 	.tab tr, .tab td{
 		text-align: center;
 		border: 5px solid silver;
+		vertical-align: 120px;
 		background-color: white;
 	}	
