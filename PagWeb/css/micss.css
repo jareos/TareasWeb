@@ -28,13 +28,13 @@
 		text-align: right;
 	}
    #cont{
-   		text-align: center; width: 693px; margin: 0 auto 0 auto; 
+   		text-align: center;  width: 1100px; margin: 0 auto 0 auto; 
      	}
    #enca{ 
    		height: 32px; margin-bottom: 40px; width: 693px;
    	}
    #contenido{ 
-   		width: 500px; float: left; margin-bottom: 70px;
+   		width: 500px; float: right; margin-bottom: 70px;
    	}
    #contenido h2{ 
    		font-size: 18px; color: #464545; font-weight: normal 
@@ -43,8 +43,11 @@
    		color: yellow;
    	} 
    	#contenido p{
-   		font-size: 13px;
+   		font-size: 20px;
    	}	   
+   	#contenido2 p{
+   		font-size: 13px;
+   	} 
    #menu{ 
    		width: 180px; float: left; text-transform: uppercase
    	}	
